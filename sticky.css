@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+div{
+    background-color: blueviolet;
+    position: sticky;
+    top: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+#p1{
+    font-family: 'Macondo', cursive;;
+    font-size: x-large;
+}
